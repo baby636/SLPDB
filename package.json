@@ -48,7 +48,7 @@
     "migrate-mongo": "^5.0.1",
     "mingo": "^2.5.3",
     "mongodb": "^3.5.6",
-    "node-jq": "1.6.0",
+    "node-jq": "6.0.1",
     "os-utils": "0.0.14",
     "p-limit": "2.0.0",
     "p-queue": "3.1.0",
