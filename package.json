@@ -57,7 +57,7 @@
     "traverse": "^0.6.6",
     "ts-node": "^7.0.1",
     "typescript": "^3.8.3",
-    "zeromq": "^5.2.0"
+    "zeromq": "^5.2.5"
   },
   "devDependencies": {
     "@types/mocha": "^5.1.1",
